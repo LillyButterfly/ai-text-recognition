@@ -53,4 +53,3 @@ Este projeto demonstra como é possível usar tecnologias nativas do iOS para re
 
 ---
 
-Se precisar de mais ajustes, só avisar!
